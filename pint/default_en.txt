@@ -130,7 +130,7 @@ count = []
 
 # Angle
 turn = 2 * π * radian = _ = revolution = cycle = circle
-degree = π / 180 * radian = $^{\circ}$ = deg  = arcdeg = arcdegree = angular_degree
+degree = π / 180 * radian = ° = deg  = arcdeg = arcdegree = angular_degree
 arcminute = degree / 60 = arcmin = arc_minute = angular_minute
 arcsecond = arcminute / 60 = arcsec = arc_second = angular_second
 milliarcsecond = 1e-3 * arcsecond = mas
